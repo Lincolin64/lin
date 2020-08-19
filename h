@@ -8,7 +8,7 @@
     <table cellspacing= "20px">
       <thead>
         <tr>
-          <td><img src="C:\Users\engmf\Desktop\Programing\New folder\lincolin profile pic..png" alt="LINCOLIN profile pic."></td>
+          <td><img src="https://github.com/Lincolin64/lin/blob/master/lincolin%20profile%20pic..png" alt="LINCOLIN profile pic."></td>
           <td><h1 style="text-decoration:underline;color:#989898">LINCOLIN</h1>
           <p><strong>student</strong> at second grade <em><strong>secondary</strong></em>.
             <br>
