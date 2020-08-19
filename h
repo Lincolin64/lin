@@ -88,6 +88,6 @@
     <hr size = 3 noshade>
     <a href="https://github.com/Lincolin64/lin/blob/master/c"  style="color:#989898"><strong>My Hobbies</strong></a>
     <br>
-    <a href="C:\Users\engmf\Desktop\Programing\New folder\contact.html"  style="color:#989898"><strong>Contact Me</strong></a>
+    <a href="https://github.com/Lincolin64/lin/blob/master/n"  style="color:#989898"><strong>Contact Me</strong></a>
   </body>
 </html>
